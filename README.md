@@ -12,6 +12,6 @@ All servers were `m1.small` instances.
 
 For more information, please see [my blog post](http://bailis.org/blog/communication-costs-in-real-world-networks/) or [contact me](http://www.bailis.org/contact.html).
 
-**If you wish to use these traces in an academic publication, please
-  [contact me](http://www.bailis.org/contact.html) for an appropriate
-  citation (this will be updated shortly).**
+**If you wish to use these traces in an academic publication, please reference [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) ([bib](http://www.bailis.org/papers/hat-vldb2014.bib)), to appear in VLDB 2014.**
+
+Note that, according to [this paper](http://conferences.sigcomm.org/imc/2013/papers/imc125s-pelsserA.pdf), ping may overstate RTT variance.
